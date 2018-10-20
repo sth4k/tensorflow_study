@@ -18,3 +18,7 @@ https://www.tensorflow.org/api_docs/python/tf/estimator/train_and_evaluate
 early stopping (with tf.__version__ >=1.10)
 
 https://stackoverflow.com/questions/47137061/early-stopping-with-tf-estimator-how
+
+numpy array input 
+
+https://www.tensorflow.org/tutorials/estimators/cnn
